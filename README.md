@@ -36,9 +36,6 @@
 ### MRI Lab Box Folder 
 - [Introductory Materials](https://byu.app.box.com/folder/248010959989)
 
-### Textbooks
-- [Nishimura MRI](https://www.scribd.com/document/632415981/Principles-of-Magnetic-Resonance-Imaging-Nishimura-pdf) (Ask Dr. Allen for your own copy, digital and physical)
-
 ### Other good resources:
 - https://larsonlab.github.io/MRI-education-resources/Introduction.html 
 
